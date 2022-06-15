@@ -95,7 +95,7 @@
                   "fontSize": "PARAGRAPH",
                   "fontStyle": "BOLD",
                   "textAlign": "LEFT",
-                  "textColor": "#231F20",
+                  "textColor": "{{List1.listData.map((currentItem, currentIndex) => {\n              return (function(){\n                return  '#db2777';\n              })();\n            })}}",
                   "widgetName": "Text1",
                   "version": 1,
                   "animateLoading": true,
@@ -200,6 +200,9 @@
                 },
                 {
                   "key": "accentColor"
+                },
+                {
+                  "key": "template.Text1.textColor"
                 }
               ],
               "gridType": "vertical",
@@ -392,7 +395,7 @@
                               },
                               "isVisible": true,
                               "fontStyle": "BOLD",
-                              "textColor": "#231F20",
+                              "textColor": "#db2777",
                               "version": 1,
                               "parentId": "z031ixz70l",
                               "renderMode": "CANVAS",
