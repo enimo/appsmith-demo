@@ -1198,27 +1198,6 @@
           ]
         },
         "layoutOnLoadActions": [],
-        "widgetNames": [
-          "Button1",
-          "Canvas1",
-          "Canvas2",
-          "Canvas3",
-          "Canvas4",
-          "Checkbox1",
-          "Container1",
-          "Container2",
-          "Image1",
-          "Image2",
-          "Input1",
-          "List1",
-          "List2",
-          "MainContainer",
-          "Text1",
-          "Text2",
-          "Text3",
-          "Text4",
-          "Text5"
-        ],
         "validOnPageLoadActions": true,
         "id": "Page1",
         "deleted": false,
@@ -1230,6 +1209,5 @@
     "policies": []
   },
   "deleted": false,
-  "policies": [],
   "gitSyncId": "61af46508dc59829e3178f00_61c58d7dcf3a88057a7dba73"
 }
