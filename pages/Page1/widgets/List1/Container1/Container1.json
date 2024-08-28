@@ -1,0 +1,62 @@
+{
+  "animateLoading": true,
+  "backgroundColor": "white",
+  "borderColor": "transparent",
+  "borderRadius": "0px",
+  "borderWidth": "0",
+  "bottomRow": 12,
+  "boxShadow": "none",
+  "children": [
+    {
+      "borderRadius": "0px",
+      "boxShadow": "none",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "displayName": "Canvas",
+      "hideCard": true,
+      "isLoading": false,
+      "isVisible": true,
+      "key": "un1bv4vljx",
+      "labelTextSize": "0.875rem",
+      "leftColumn": 0,
+      "parentColumnSpace": 1,
+      "parentId": "kqvp11r61y",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "topRow": 0,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "z031ixz70l",
+      "widgetName": "Canvas2"
+    }
+  ],
+  "containerStyle": "card",
+  "disablePropertyPane": true,
+  "disallowCopy": true,
+  "displayName": "Container",
+  "dragDisabled": true,
+  "dynamicPropertyPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.1977dca3.svg",
+  "isCanvas": true,
+  "isDeletable": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "x82hvx1ws4",
+  "labelTextSize": "0.875rem",
+  "leftColumn": 0,
+  "openParentPropertyPane": true,
+  "parentId": "olx1dddevc",
+  "renderMode": "CANVAS",
+  "rightColumn": 64,
+  "topRow": 0,
+  "type": "CONTAINER_WIDGET",
+  "version": 1,
+  "widgetId": "kqvp11r61y",
+  "widgetName": "Container1"
+}
