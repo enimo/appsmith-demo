@@ -15,6 +15,7 @@
       "key": "borderRadius"
     }
   ],
+  "dynamicHeight": "FIXED",
   "dynamicTriggerPathList": [],
   "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
   "fontSize": "1rem",
@@ -64,6 +65,8 @@
     "widgetId": true,
     "widgetName": true
   },
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
   "overflow": "NONE",
   "parentId": "icqyh69hkq",
   "renderMode": "CANVAS",

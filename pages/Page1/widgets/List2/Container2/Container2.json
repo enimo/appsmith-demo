@@ -53,6 +53,7 @@
       "key": "boxShadow"
     }
   ],
+  "dynamicHeight": "FIXED",
   "hideCard": false,
   "iconSVG": "/static/media/icon.1977dca3.svg",
   "isCanvas": true,
@@ -62,6 +63,8 @@
   "isVisible": true,
   "key": "py7avpdvjk",
   "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
   "openParentPropertyPane": true,
   "parentId": "q3steju1rn",
   "renderMode": "CANVAS",

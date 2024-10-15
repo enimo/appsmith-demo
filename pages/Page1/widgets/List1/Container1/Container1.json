@@ -36,6 +36,7 @@
   "disallowCopy": true,
   "displayName": "Container",
   "dragDisabled": true,
+  "dynamicHeight": "FIXED",
   "dynamicPropertyPathList": [
     {
       "key": "borderRadius"
@@ -50,6 +51,8 @@
   "key": "x82hvx1ws4",
   "labelTextSize": "0.875rem",
   "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
   "openParentPropertyPane": true,
   "parentId": "olx1dddevc",
   "renderMode": "CANVAS",

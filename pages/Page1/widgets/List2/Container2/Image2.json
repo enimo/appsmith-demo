@@ -13,6 +13,7 @@
       "key": "borderRadius"
     }
   ],
+  "dynamicHeight": "FIXED",
   "dynamicTriggerPathList": [],
   "enableDownload": false,
   "enableRotation": false,

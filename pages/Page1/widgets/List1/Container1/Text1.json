@@ -9,6 +9,7 @@
       "key": "text"
     }
   ],
+  "dynamicHeight": "FIXED",
   "dynamicTriggerPathList": [],
   "fontFamily": "System Default",
   "fontSize": "0.875rem",
@@ -51,6 +52,8 @@
     "widgetId": true,
     "widgetName": true
   },
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
   "overflow": "NONE",
   "parentId": "z031ixz70l",
   "renderMode": "CANVAS",

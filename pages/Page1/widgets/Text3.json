@@ -11,6 +11,7 @@
       "key": "borderRadius"
     }
   ],
+  "dynamicHeight": "FIXED",
   "dynamicTriggerPathList": [],
   "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
   "fontSize": "1rem",
@@ -22,6 +23,8 @@
   "isVisible": true,
   "key": "e6mj334k3w",
   "leftColumn": 46,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
   "overflow": "NONE",
   "parentColumnSpace": 21.46875,
   "parentId": "0",
